@@ -1,3 +1,32 @@
+# Core
+taobao.com
+tmall.com
+tmall.hk
+taobao.org
+etao.com
+
+# CDN / static
+alicdn.com
+taobaocdn.com
+tbcdn.cn
+mmstat.com
+
+# App / APIs (common)
+tb.cn
+taopiaopiao.com
+alipayobjects.com
+alipay.com
+aliapp.org
+aliapp.org.cn
+
+# Infra you might see in app calls (safe to include for coverage)
+aliyuncs.com
+amap.com
+amap.cn
+ucweb.com
+youku.com
+ykimg.com
+
 cn
 edu.cn
 
