@@ -1,0 +1,3 @@
+101.4.0.0/14          # Core CERNET IPv4 range (covers most *.edu.cn)
+202.205.16.0/20       # Education exchange subnet (Tsinghua/peering, etc.)
+222.201.224.0/19      # Broader China Education Network IP block
