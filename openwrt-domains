@@ -7,6 +7,23 @@ taobao.net
 etao.com
 tb.cn
 taopiaopiao.com
+*.taobao.com
+*.tmall.com
+*.alicdn.com
+*.tbcdn.cn
+*.tbcdn.com
+*.taobaocdn.com
+*.mmstat.com
+*.alipay.com
+*.alipayobjects.com
+*.alicdn.com
+*.amap.com
+*.aliyuncs.com
+*.alibaba.com
+*.aliimg.com
+*.aliexpress.com
+*.1688.com
+*.alios.cn
 
 # Alibaba — payments & CDN
 alipay.com
