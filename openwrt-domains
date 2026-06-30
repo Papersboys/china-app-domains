@@ -1,54 +1,46 @@
-# Alibaba / Taobao
+# Alibaba
 taobao.com
 tmall.com
 tmall.hk
-taobao.org
-taobao.net
-etao.com
 tb.cn
+etao.com
 taopiaopiao.com
-*.taobao.com
-*.tmall.com
-*.alicdn.com
-*.tbcdn.cn
-*.tbcdn.com
-*.taobaocdn.com
-*.mmstat.com
-*.alipay.com
-*.alipayobjects.com
-*.alicdn.com
-*.amap.com
-*.aliyuncs.com
-*.alibaba.com
-*.aliimg.com
-*.aliexpress.com
-*.1688.com
-*.alios.cn
-
-# Alibaba — payments & CDN
-alipay.com
-alipayobjects.com
-aliapp.org
+alibaba.com
+1688.com
+aliexpress.com
 alicdn.com
 taobaocdn.com
 tbcdn.cn
 tbcdn.com
+alipay.com
+alipayobjects.com
+aliyun.com
+aliyuncs.com
+alibabadns.com
+alibabacorp.com
 mmstat.com
 alimama.com
-alibaba.com
-
-# Alibaba — infra
-aliyuncs.com
 amap.com
 amap.cn
-ucweb.com
+umeng.com
+umengcloud.com
+cnzz.com
 
 # Tencent
 qq.com
 wechat.com
+weixin.qq.com
+gtimg.com
+qpic.cn
+myqcloud.com
 
-# ByteDance / Douyin
+# ByteDance
 douyin.com
+douyinpic.com
+douyincdn.com
+bytedance.com
+byteimg.com
+bytecdn.cn
 
 # JD
 jd.com
@@ -59,36 +51,60 @@ jdcdn.com
 jdstatic.com
 jingxi.com
 jdcache.com
-cdn20.cn
+
+# PDD
+pinduoduo.com
+
+# Baidu
+baidu.com
+bdimg.com
+bcebos.com
+
+# Bilibili
+bilibili.com
+bilivideo.com
+hdslb.com
 
 # Video
-bilibili.com
 iqiyi.com
 youku.com
 ykimg.com
+acfun.cn
 kuaishou.com
-acfun.com
-tudou.com
 
-# Social / Content
+# Social
 xiaohongshu.com
+xhscdn.com
 weibo.com
 sina.com
+zhihu.com
 
-# On-demand & local services
-meituan.com
-dianping.com
-didi.com
+# Travel
 ctrip.com
 trip.com
-pinduoduo.com
+qunar.com
+didi.com
+didiglobal.com
 
-# Hardware / Devices
+# Device
 xiaomi.com
 mi.com
 huawei.com
 
-# Media / Education
+# Apple
+apple.com
+icloud.com
+mzstatic.com
+itunes.apple.com
+
+# Microsoft
+microsoft.com
+live.com
+office.com
+office365.com
+windowsupdate.com
+
+# China
 cctv.com
 cctv.cn
 edu.cn
