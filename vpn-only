@@ -25,7 +25,17 @@ intercom.io
 stripe.com
 segment.io
 claude.ai
+claude.com
+app.claude.ai
 anthropic.com
+api.anthropic.com
+platform.claude.com
+console.anthropic.com
+code.claude.com
+support.claude.com
+status.anthropic.com
+160.79.104.0/21
+2607:6bc0::/48
 perplexity.ai
 x.ai
 grok.com
@@ -153,6 +163,11 @@ imgur.com
 flickr.com
 imdb.com
 speedtest.net
+auth0.com
+sentry.io
+okta.com
+uscardforum.com
+alaskaair.com
 74.125.0.0/16
 142.250.0.0/15
 172.217.0.0/16
@@ -229,7 +244,3 @@ speedtest.net
 185.63.144.0/22
 193.235.232.0/22
 66.22.192.0/19
-auth0.com
-sentry.io
-okta.com
-uscardforum.com
